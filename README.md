@@ -26,8 +26,8 @@ Through interactive visualization and advanced SQL querying, this repository dem
 
 | File | Description |
 | :--- | :--- |
-| [`dashboard.png`](./demo.pdf) | High-resolution export of the visual metrics dashboard. |
-| [`portfolio_queries.sql`](./postgreSQl_portfolio_Questions.pdf) | The complete suite of PostgreSQL scripts used to query the database and generate insights. |
+| [`demo.pdf`](./demo.pdf) | High-resolution export of the visual metrics dashboard. |
+| [`postgreSQl_portfolio_Questions.pdf`](./postgreSQl_portfolio_Questions.pdf) | The complete suite of PostgreSQL scripts used to query the database and generate insights. |
 
 ---
 
